@@ -1,0 +1,46 @@
+body{
+	background-color:red;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/9/9c/B%C3%A9b%C3%A9_Phoque_de_Weddell_-_Baby_Weddell_Seal.jpg");
+}
+
+
+p{
+    border: 30px solid black;
+    border-radius: 20px;
+    border-width: 1px;
+	}
+
+
+
+h1{
+	margin-left:40px;
+     color: red;
+ }
+
+div{
+	height: 30px;
+    width: 500px;  
+}
+
+p{ 
+    padding-top:50px;
+
+
+table,th,td {
+	border:2px; solid black;
+}
+
+table#t01 {
+  width:100%;
+  background-color:#f1f1c1;
+
+  
+}
+
+
+ 
+
+
+
+
+
